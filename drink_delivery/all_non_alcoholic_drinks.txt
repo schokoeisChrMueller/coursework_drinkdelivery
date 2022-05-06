@@ -1,0 +1,12 @@
+ID	category	product			prize	liter
+0	water		still_water		0.22	1.50
+1	water		sparkling_water		0.28	1.50
+2	water		mineral_water		0.88	1.50
+3	juice		apple_juice		0.60	1.00
+4	juice		orange_juice		0.45	1.00
+5	juice		grape_juice		0.75	1.00
+6	s_drink		coca_cola		1.20	1.25
+7	s_drink		sprite_lemon		1.25	1.25
+8	s_drink		icetea_peach		0.90	2.00
+
+

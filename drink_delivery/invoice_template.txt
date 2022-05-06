@@ -1,0 +1,15 @@
+Invoice for ordering drinks from 'drink + delivery service Mueller.AG'
+
+Current time: 17:44:24
+
+
+Pos	product		amount	duration	prize
+1	sparkling_water	1	0 [days]	0.28 [EUR]
+2	white_wine	6	0 [days]	36 [EUR]
+3	irish_whiskey	4	0 [days]	95.7 [EUR]
+
+
++ Summed prize: 131.98 [EUR]
++ Delivery prize: 2.03 [EUR]
+
+= Total prize: 134.01 [EUR]

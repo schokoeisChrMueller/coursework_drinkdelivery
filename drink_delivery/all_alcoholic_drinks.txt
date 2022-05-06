@@ -1,0 +1,10 @@
+ID	category	product			prize	liter	alcoholcontent
+0	beer		light_beer		0.95	0.50	2.5
+1	beer		dark_beer		1.15	0.50	6.0
+2	beer		wheat_beer		1.05	0.50	5.0
+3	wine		red_wine		6.50	0.75	13.0
+4	wine		white_wine		5.00	0.75	12.0
+5	wine		rose_wine		5.50	0.75	12.5	
+6	liquor		russian_vodka		12.50	0.70	40.5
+7	liquor		jamaican_rum		14.00	1.00	38.5
+8	liquor		irish_whiskey		16.50	0.70	52.5

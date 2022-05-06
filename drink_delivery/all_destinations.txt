@@ -1,0 +1,12 @@
+ID	category	destination		north-south	west-east	prizeperkilometer
+0	stock		warehouse_north		11500		2000		0.0
+1	stock		warehouse_central	5000		5000		0.0
+2	destination	Smolensko_st		3000		1500		0.85
+3	destination	Gedimino_street		6000		3200		0.95
+4	destination	Uzupis_district		4200		7800		1.25
+5	destination	Sauletekio_uni		12000		6900		1.45
+6	destination	Slucko_street		7500		2100		0.75
+7	destination	Cathedralsquare		5500		6500		1.15
+8	destination	Rinktines_st		9600		2400		1.05
+
+

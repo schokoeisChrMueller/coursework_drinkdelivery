@@ -1,0 +1,6 @@
+ID	category	product			prizeperday
+0	beer_bench	small_bench		8.5
+1	beer_bench	big_bench		11.5
+2	glass_set	set_waterglass		0.85
+3	glass_set	set_beerglass		1.15
+4	glass_set	set_wineglass		1.95
